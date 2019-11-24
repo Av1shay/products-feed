@@ -1,0 +1,101 @@
+{
+  "rss": {
+    "-xmlns:g": "http://base.google.com/ns/1.0",
+    "-version": "2.0",
+    "-encoding": "UTF-8",
+    "channel": {
+      "title": "Groo",
+      "link": "https://www.groo.co.il",
+      "description": "Groo's products",
+      "item": [
+        {
+          "g:id": "1029485",
+          "g:title": "מעשנת פחמים ביתית",
+          "g:description": "מעשנת ההופכת גם לגריל פחמים וכוללת מד טמפרטורה מובנה, שתי דלתות שירות ופתח אוורור.",
+          "g:link": "https://www.groo.co.il/deal/charcoal-smoker/1029485",
+          "g:image_link": "https://media.groo.co.il/_media/media/29689/273127.jpg?t=1574080570",
+          "g:availability": "In Stock",
+          "g:price": "149.00 ILS",
+          "g:product_type": "לבית ולגן",
+          "g:brand": "GROO",
+          "g:adult": "No",
+          "g:condition": "New",
+          "g:identifier_exists": "no",
+          "g:shipping": {
+            "g:country": "IL",
+            "g:service": "שליח עד הבית",
+            "g:price": "39"
+          },
+          "g:custom_label_0": "לבית ולגן",
+          "g:custom_label_1": "גריל גז, מנגל ומעשנת בשר",
+          "g:custom_label_2": "176.92307692308",
+          "g:custom_label_3": "בלאק פריידי נובמבר19- תגית"
+        },
+        {
+          "g:id": "1029492",
+          "g:title": "10 חטיפי יאמיז לחתולים",
+          "g:description": "מארז חטיפי עוף ודגים לחתולים מבשר אמיתי.",
+          "g:link": "https://www.groo.co.il/deal/yummiz-treats-for-cats/1029492",
+          "g:image_link": "https://media.groo.co.il/_media/media/29696/273303.jpg?t=1574080570",
+          "g:availability": "In Stock",
+          "g:price": "179.00 ILS",
+          "g:sale_price": "99.00 ILS",
+          "g:sale_price_effective_date": "2019-06-12T21:00:00Z/2021-06-09T21:00:00Z",
+          "g:product_type": "חיות מחמד",
+          "g:brand": "GROO",
+          "g:adult": "No",
+          "g:condition": "New",
+          "g:identifier_exists": "no",
+          "g:shipping": {
+            "g:country": "IL",
+            "g:service": "דואר רשום (לכל שובר)",
+            "g:price": "0"
+          },
+          "g:custom_label_0": "חיות מחמד",
+          "g:custom_label_1": "חטיפים וצעצועים",
+          "g:custom_label_2": "14.846153846154",
+          "g:custom_label_3": "משלוח חינם-תגית"
+        },
+        {
+          "g:id": "1029578",
+          "g:title": "6 מגבות פנים 100% כותנה",
+          "g:description": "6 מגבות כותנה עבות ונעימות למגע, בעלות כושר ספיגה גבוה.",
+          "g:link": "https://www.groo.co.il/deal/cotton-face-towels/1029578",
+          "g:image_link": "https://media.groo.co.il/_media/media/29782/273661.jpg?t=1574080570",
+          "g:availability": "In Stock",
+          "g:price": "59.00 ILS",
+          "g:product_type": "לבית ולגן",
+          "g:brand": "GROO",
+          "g:adult": "No",
+          "g:condition": "New",
+          "g:identifier_exists": "no",
+          "g:shipping": {
+            "g:country": "IL",
+            "g:service": "צ'יטה שופס",
+            "g:price": "0"
+          },
+          "g:custom_label_0": "לבית ולגן",
+          "g:custom_label_1": "מגבות וחלוקים",
+          "g:custom_label_2": "58.965811965812",
+          "g:custom_label_3": "משלוח חינם-תגית"
+        },
+        {
+          "g:id": "7182323",
+          "g:title": "מוצר מגניב",
+          "g:description": "זה תיאור המוצר המגניב!",
+          "g:link": "https://www.groo.co.il/deal/cotton-face-towels/1029578",
+          "g:image_link": "https://media.groo.co.il/_media/media/29782/273661.jpg?t=1574080570",
+          "g:price": "59.00 ILS"
+        },
+        {
+          "g:id": "89123823",
+          "g:title": "עוד מוצר מגניב",
+          "g:description": "זה עוד תיאור של מוצר מגניב!",
+          "g:link": "https://www.groo.co.il/deal/cotton-face-towels/1029578",
+          "g:image_link": "https://media.groo.co.il/_media/media/29782/273661.jpg?t=1574080570",
+          "g:price":"2132 ILS"
+        }
+      ]
+    }
+  }
+}
